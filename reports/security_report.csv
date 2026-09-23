@@ -1,0 +1,32 @@
+Type,Indicator,Count,Severity
+IP Address,10.10.10.50,35,CRITICAL
+IP Address,192.168.1.30,18,HIGH
+IP Address,192.168.1.10,16,HIGH
+IP Address,192.168.1.15,15,HIGH
+IP Address,10.0.0.5,11,HIGH
+IP Address,10.0.0.8,10,HIGH
+IP Address,192.168.1.20,8,MEDIUM
+IP Address,192.168.1.40,7,MEDIUM
+Username,admin,47,CRITICAL
+Username,operator,16,HIGH
+Username,david,13,HIGH
+Username,guest,13,HIGH
+Username,root,12,HIGH
+Username,mary,8,MEDIUM
+Username,alice,6,MEDIUM
+Username,john,5,MEDIUM
+Operating System,Kali_Linux,72,INFO
+Operating System,Windows_11,52,INFO
+Operating System,Ubuntu_24.04,40,INFO
+Operating System,Debian_12,37,INFO
+Operating System,Windows_10,36,INFO
+Operating System,Ubuntu_22.04,35,INFO
+Operating System,macOS_14,28,INFO
+Failed Login OS,Kali_Linux,49,CRITICAL
+Failed Login OS,Ubuntu_24.04,17,HIGH
+Failed Login OS,Windows_11,14,HIGH
+Failed Login OS,Debian_12,13,HIGH
+Failed Login OS,Windows_10,12,HIGH
+Failed Login OS,macOS_14,8,MEDIUM
+Failed Login OS,Ubuntu_22.04,7,MEDIUM
+Brute Force,10.10.10.50,31,CRITICAL
